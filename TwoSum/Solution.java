@@ -1,3 +1,8 @@
+package TwoSum;
+
+// LeetCode Problem 1: Two Sum
+
+// Accepted with 45ms runtime and 45MB memory usage
 class Solution {
     public static int[] twoSum(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {

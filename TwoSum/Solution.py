@@ -1,3 +1,7 @@
+
+# LeetCode Problem 1: Two Sum
+
+# Accepted with 1864ms runtime and 18.6MB memory usage
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
         for i in range(0, len(nums)):
