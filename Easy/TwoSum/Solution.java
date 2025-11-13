@@ -1,4 +1,4 @@
-package TwoSum;
+package Easy.TwoSum;
 
 // LeetCode Problem 1: Two Sum
 

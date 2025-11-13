@@ -1,4 +1,4 @@
-package _studies.Primos;
+package Others.Primos;
 
 public class Primos {
 

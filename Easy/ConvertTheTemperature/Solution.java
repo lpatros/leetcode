@@ -1,4 +1,4 @@
-package ConvertTheTemperature;
+package Easy.ConvertTheTemperature;
 
 // LeetCode Problem 2469: Convert the Temperature
 
